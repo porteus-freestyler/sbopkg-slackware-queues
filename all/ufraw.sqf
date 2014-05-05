@@ -1,0 +1,4 @@
+lensfun
+gtkimageview
+dcraw
+ufraw

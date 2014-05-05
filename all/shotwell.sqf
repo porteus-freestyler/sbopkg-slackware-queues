@@ -1,0 +1,12 @@
+orc
+gstreamer1
+gst1-plugins-base
+rest
+libwebp
+webkitgtk3
+vala
+libunique
+libgexiv2
+libgee1
+LibRaw
+shotwell

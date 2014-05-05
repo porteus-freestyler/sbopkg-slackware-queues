@@ -1,0 +1,4 @@
+pysetuptools
+PrettyTable
+python-requests
+turbolift

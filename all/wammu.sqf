@@ -1,0 +1,3 @@
+wxPython
+gammu
+wammu

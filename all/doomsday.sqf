@@ -1,0 +1,4 @@
+fmodapi
+OpenAL
+wxPython
+doomsday

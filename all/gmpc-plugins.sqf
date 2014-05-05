@@ -1,0 +1,9 @@
+libdaemon
+avahi
+json-glib
+libmpd
+vala
+gob2
+libunique
+gmpc
+gmpc-plugins

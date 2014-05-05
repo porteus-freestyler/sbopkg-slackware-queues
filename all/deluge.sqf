@@ -1,0 +1,11 @@
+pyxdg
+pysetuptools
+zope.interface
+python-twisted
+python-chardet
+pyOpenSSL
+GeoIP
+libtorrent-rasterbar
+MarkupSafe
+Mako
+deluge

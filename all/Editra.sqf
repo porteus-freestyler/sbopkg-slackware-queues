@@ -1,0 +1,3 @@
+pysetuptools
+wxPython
+Editra

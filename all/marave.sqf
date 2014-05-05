@@ -1,0 +1,3 @@
+pyenchant
+pysetuptools
+marave

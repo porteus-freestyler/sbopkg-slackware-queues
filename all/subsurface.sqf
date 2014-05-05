@@ -1,0 +1,2 @@
+libdivecomputer
+subsurface

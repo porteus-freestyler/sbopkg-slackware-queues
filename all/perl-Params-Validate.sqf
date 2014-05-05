@@ -1,0 +1,11 @@
+perl-Test-Requires
+perl-Try-Tiny
+perl-Devel-Symdump
+perl-Pod-Coverage
+perl-Test-Pod-Coverage
+perl-Test-Pod
+perl-Params-Classify
+perl-Module-Runtime
+perl-Test-Fatal
+perl-Module-Implementation
+perl-Params-Validate

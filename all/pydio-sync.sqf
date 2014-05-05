@@ -1,0 +1,2 @@
+jdk
+pydio-sync

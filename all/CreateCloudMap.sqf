@@ -1,0 +1,19 @@
+# %README%: see the CreateCloudMap README file. 
+ordereddict
+pysetuptools
+ConfigParser
+pytz
+zope.interface
+DateTime
+python-requests
+numpy
+blas
+lapack
+scipy
+pykdtree
+numexpr
+configobj
+proj
+pyproj
+pyresample
+CreateCloudMap

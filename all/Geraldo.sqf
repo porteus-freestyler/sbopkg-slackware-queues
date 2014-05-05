@@ -1,0 +1,3 @@
+pysetuptools
+reportlab
+Geraldo

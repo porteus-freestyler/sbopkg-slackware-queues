@@ -1,0 +1,3 @@
+speex
+scons
+glob2

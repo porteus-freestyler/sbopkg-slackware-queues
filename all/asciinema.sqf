@@ -1,0 +1,3 @@
+python-requests
+pysetuptools
+asciinema

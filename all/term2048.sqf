@@ -1,0 +1,3 @@
+colorama
+pysetuptools
+term2048

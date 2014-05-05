@@ -1,0 +1,13 @@
+mm-common
+libsigc++
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+ORBit2
+libbonobo
+gnome-mime-data
+gnome-vfs
+libgnome
+libgnomemm

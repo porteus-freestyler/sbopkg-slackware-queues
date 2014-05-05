@@ -1,0 +1,3 @@
+redis
+pysetuptools
+redis-py

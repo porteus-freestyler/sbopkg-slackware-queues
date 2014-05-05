@@ -1,0 +1,10 @@
+jansson
+libnet
+libcap-ng
+libhtp
+ocaml
+ocaml-findlib
+menhir
+coccinelle
+simplejson
+suricata

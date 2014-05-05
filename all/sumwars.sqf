@@ -1,0 +1,12 @@
+unixODBC
+mysql-connector-c++
+poco
+lua
+OpenAL
+freealut
+CEGUI0.7
+ois
+ogre
+physfs
+FreeImage
+sumwars

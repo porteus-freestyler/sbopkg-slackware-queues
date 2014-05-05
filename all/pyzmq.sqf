@@ -1,0 +1,3 @@
+zeromq
+Cython
+pyzmq

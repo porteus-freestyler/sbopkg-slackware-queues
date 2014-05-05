@@ -1,0 +1,3 @@
+pysetuptools
+python-chardet
+mktoc

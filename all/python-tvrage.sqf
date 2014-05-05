@@ -1,0 +1,2 @@
+BeautifulSoup
+python-tvrage

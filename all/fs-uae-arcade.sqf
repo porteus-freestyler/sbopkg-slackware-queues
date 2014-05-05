@@ -1,0 +1,11 @@
+jdk
+portmidi
+smpeg
+pygame
+pysetuptools
+OpenAL
+fs-uae
+numpy
+PyOpenGL
+wxPython
+fs-uae-arcade

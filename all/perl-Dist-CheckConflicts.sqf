@@ -1,0 +1,14 @@
+perl-Devel-Symdump
+perl-Pod-Coverage
+perl-Test-Pod-Coverage
+perl-Test-Pod
+perl-Params-Classify
+perl-Module-Runtime
+perl-Try-Tiny
+perl-Test-Fatal
+perl-Sub-Install
+perl-Params-Util
+perl-Data-OptList
+perl-Sub-Exporter
+perl-List-MoreUtils
+perl-Dist-CheckConflicts

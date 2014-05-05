@@ -1,0 +1,4 @@
+ecdsa
+pysetuptools
+SlowAES
+Electrum

@@ -1,0 +1,3 @@
+vigra
+gsl
+enblend-enfuse

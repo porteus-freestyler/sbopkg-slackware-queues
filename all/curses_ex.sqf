@@ -1,0 +1,3 @@
+pysetuptools
+python3
+curses_ex

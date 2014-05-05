@@ -1,0 +1,3 @@
+jdk
+jai
+jai-imageio

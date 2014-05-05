@@ -1,0 +1,3 @@
+ordereddict
+pysetuptools
+ConfigParser

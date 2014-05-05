@@ -1,0 +1,5 @@
+pysetuptools
+easygui
+musicbrainzngs
+mutagen
+mp3fm

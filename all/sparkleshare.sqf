@@ -1,0 +1,13 @@
+libwebp
+orc
+gstreamer1
+gst1-plugins-base
+webkitgtk
+libgdiplus
+mono
+gtk-sharp
+webkit-sharp
+dbus-sharp
+dbus-sharp-glib
+notify-sharp
+sparkleshare

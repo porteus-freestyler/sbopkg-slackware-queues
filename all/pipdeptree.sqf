@@ -1,0 +1,3 @@
+pysetuptools
+pip
+pipdeptree

@@ -1,0 +1,19 @@
+mutagen
+pysetuptools
+futures
+termcolor
+colorama
+python-requests
+numpy
+PyYAML
+jdk
+nltk
+# %README%: see the six README file. 
+six
+nose
+docopt
+isodate
+BeautifulSoup
+lxml
+BeautifulSoup4
+RYMTracks

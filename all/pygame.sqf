@@ -1,0 +1,4 @@
+jdk
+portmidi
+smpeg
+pygame

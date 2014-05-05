@@ -1,0 +1,4 @@
+python-requests
+pysetuptools
+python3
+i3situation

@@ -1,0 +1,6 @@
+pygtkspell
+pyenchant
+pypoppler
+leptonica
+tesseract
+gimagereader

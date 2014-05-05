@@ -1,0 +1,4 @@
+pysetuptools
+MarkupSafe
+Jinja2
+TermRecord

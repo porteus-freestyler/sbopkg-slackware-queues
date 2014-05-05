@@ -1,0 +1,2 @@
+krb5
+mod_auth_kerb

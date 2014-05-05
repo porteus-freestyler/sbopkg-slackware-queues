@@ -1,0 +1,4 @@
+libgnomecanvas
+zenity
+pysetuptools
+udiskie

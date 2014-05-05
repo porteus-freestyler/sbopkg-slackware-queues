@@ -1,0 +1,6 @@
+pysetuptools
+protobuf
+tinyxml
+libircclient
+libgsasl
+pokerth

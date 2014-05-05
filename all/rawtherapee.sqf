@@ -1,0 +1,9 @@
+libsigc++
+libiptcdata
+mm-common
+glibmm
+cairomm
+pangomm
+atkmm
+gtkmm
+rawtherapee

@@ -1,0 +1,5 @@
+BeautifulSoup
+lxml
+pysetuptools
+genshi
+relatorio

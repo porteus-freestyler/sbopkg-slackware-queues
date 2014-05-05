@@ -1,0 +1,9 @@
+libwebp
+orc
+gstreamer1
+gst1-plugins-base
+webkitgtk
+goffice0.8
+libgnomecanvas
+libofx
+gnucash

@@ -1,0 +1,2 @@
+libqxt
+HotShots

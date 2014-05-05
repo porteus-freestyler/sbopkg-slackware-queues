@@ -1,0 +1,12 @@
+lua
+eina
+embryo
+eet
+evas
+ecore
+edje
+ethumb
+e_dbus
+eio
+efreet
+elementary

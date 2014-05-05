@@ -1,0 +1,4 @@
+pysetuptools
+argcomplete
+python3
+pygifme

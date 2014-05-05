@@ -1,0 +1,3 @@
+OpenAL
+freealut
+xpilot-ng

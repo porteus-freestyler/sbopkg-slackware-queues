@@ -1,0 +1,17 @@
+libsigc++
+varconf
+libwfut
+Atlas-C++
+wfmath
+mercator
+skstream
+eris
+CEGUI0.7
+ogre
+OpenAL
+freealut
+scons
+lua
+tolua++
+FreeImage
+ember

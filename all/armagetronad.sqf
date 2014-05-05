@@ -1,0 +1,4 @@
+pysetuptools
+protobuf
+ftgl
+armagetronad

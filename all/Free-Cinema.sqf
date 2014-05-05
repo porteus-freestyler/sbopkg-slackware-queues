@@ -1,0 +1,4 @@
+BeautifulSoup4
+wxPython
+pysetuptools
+Free-Cinema

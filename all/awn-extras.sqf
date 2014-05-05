@@ -1,0 +1,31 @@
+libwebp
+orc
+gstreamer1
+gst1-plugins-base
+webkitgtk
+# %README%: see the six README file. 
+six
+pysetuptools
+python-dateutil
+pyicu
+vobject
+vala
+# %README%: see the pyinotify README file. 
+pyinotify
+ORBit2
+pyorbit
+libbonobo
+gnome-mime-data
+gnome-vfs
+libgnome
+gnome-python
+gnome-python-desktop
+gst-python
+gdata
+feedparser
+pyxdg
+libgtop
+libdesktop-agnostic
+bzr
+avant-window-navigator
+awn-extras

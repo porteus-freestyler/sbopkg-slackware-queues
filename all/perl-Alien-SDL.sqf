@@ -1,0 +1,12 @@
+perl-Archive-Zip
+perl-Capture-Tiny
+perl-Algorithm-Diff
+perl-Text-Diff
+perl-Text-Patch
+perl-Class-Inspector
+perl-File-ShareDir
+perl-Probe-Perl
+perl-IPC-Run3
+perl-Test-Script
+perl-File-Which
+perl-Alien-SDL

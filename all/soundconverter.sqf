@@ -1,0 +1,26 @@
+gnome-media
+ORBit2
+pyorbit
+libbonobo
+gnome-mime-data
+gnome-vfs
+libgnome
+gnome-python
+gnome-python-desktop
+libgnomecanvas
+libbonoboui
+libgnomeui
+x264
+lame
+# %README%: see the ffmpeg README file. 
+ffmpeg
+libmp4v2
+faac
+gst-python
+PyXML
+gnome-common
+twolame
+faad2
+aften
+a52dec
+soundconverter

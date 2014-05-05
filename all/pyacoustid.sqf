@@ -1,0 +1,4 @@
+audioread
+python-requests
+pysetuptools
+pyacoustid
