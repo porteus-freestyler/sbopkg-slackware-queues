@@ -1,4 +1,4 @@
--sbopkg-slackware-queues
+sbopkg-slackware-queues
 ========================
 
 Queue files for sbopkg
